@@ -1,0 +1,17 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/callyman007/Adult-Content-Platform.git
+git push -u origin main
+
+
+CORRECT COMMIT
+git config --global --add safe.directory C:/Users/Calystus/Downloads/2025/greno
+git config --global user.email "yungchalee@gmail.com"
+git config --global user.name "Calystus"
+git add .
+git commit -m "Initial commit of Adult Content Platform"
+git branch -M main
+git remote add origin https://github.com/callyman007/Adult-Content-Platform.git
+git push -u origin main
